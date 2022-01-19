@@ -185,7 +185,7 @@ def option_principalhelp():
       if principalhelp > 0:
         print("\n After hearing your idea the principal loved it and agreed to do the presentation."
         " the following day after the presentation\n the bullies appologized for disrespecting your religion"
-        "and promised to never do it again. Will you accept their apology ? (Y/N) ?")
+        " and promised to never do it again. Will you accept their apology ? (Y/N) ?")
       choice = input(">>> ")
       if choice in yes:
         print("Aw shucks what a good person you are!... \n" + win)
