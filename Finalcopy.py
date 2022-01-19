@@ -120,7 +120,7 @@ def option_friendhelp():
       " and to your surprise, they where intimidated by you and your friends. After you explained"
       " to them that the Hijab is an important piece of clothing in your religion." 
       " This time they listened until you finished talking and they sincerly apoligized and promised to"
-      " accept peoples religion and cultures. Will you accept their apologie? Y/N? ")
+      " accept peoples\n religion and cultures. Will you accept their apologie? Y/N? ")
       choice = input(">>> ")
       if choice in yes:
         print("Aw shucks what a good person you are!... \n" + win)
