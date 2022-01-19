@@ -159,7 +159,7 @@ def option_runhome():
     
 def option_principalhelp():
   time.sleep(1)
-  print ("Although there was no evidence you where the principal was "
+  print ("Although there was no evidence you where bullied the principal was "
   "determined to help you, he said he thinks that it is really "
   "important for students to be able to \n respect different cultures and religions"
   " since the school is really diverse. Will you accept his help Y/N ?\n")
