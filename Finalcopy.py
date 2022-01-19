@@ -197,6 +197,7 @@ def option_principalhelp():
     " someone else. Good try but" + lose)
   else:
     print (required)
+    option_bullyencounter
 
 intro()
 
