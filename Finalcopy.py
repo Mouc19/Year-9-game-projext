@@ -87,7 +87,7 @@ def option_bullyencounter():
     option_friendhelp()
   else:
     print (required)
-    option_bullyencounter
+    option_bullyencounter ()
 
 def option_friendhelp():
   print ("\n Ever sice you started ignoring the bullies they"
@@ -197,7 +197,7 @@ def option_principalhelp():
     " someone else. Good try but" + lose)
   else:
     print (required)
-    option_bullyencounter
+    option_bullyencounter ()
 
 intro()
 
