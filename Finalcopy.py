@@ -1,4 +1,4 @@
-#Blue Brightes Final copy game By Mouctar Diallo
+#Blue Brightest Final copy game By Mouctar Diallo
 import time #Imports a module to add a pause
 import art
 #Figuring out how users might respond
