@@ -46,7 +46,7 @@ def intro():
   intro2 ()
 
 def intro2 ():
-  print ("\nToday is your first day of school, more importantly it's your first day wearing wearing the hijab!"
+  print ("\nToday is your first day of school, more importantly it's your first day wearing the hijab!"
   " Before leaving your mom kisses you goodbye, "
    "\nembarassed you say goodbye and go on your way to school."
   " On your way to school two kids point at your hijab and start laughing! What will you do ?")
